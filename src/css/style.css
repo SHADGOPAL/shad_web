@@ -1,0 +1,18 @@
+.header{
+     width: 100vw;
+    height: 90px;
+    size: 28PX;
+    position: fixed;
+    top: 0;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    justify-content:center ;
+
+}
+header img{
+    width: 170px;
+}
+.h1{
+  margin-top: 70px;
+}
